@@ -1,0 +1,68 @@
+.container{
+    background-color: #800080;
+	color: white;
+	width: 400px;
+	height: 500px;
+	top: 180px;
+	left: 50%;
+	position: absolute;
+	margin-left: -210px;
+	margin-top: -140px;
+	text-align: center;
+	border: 10px #f3e1fd double;
+}
+.box{
+    background-color: magenta;
+	color: #301934;
+	border-bottom: 5px #f3e1fd solid;
+	width: 400px;
+	height: 30px;
+	top: 180px;
+	left: 50%;
+	position: absolute;
+	margin-left: -200px;
+	margin-top: -180px;
+	text-align: right;
+	word-spacing: 20px;
+	font-family: roborto;
+	font-size: 16px;
+}
+.center{
+	color: white;
+	width: 400px;
+	height: 180px;
+	top: 180px;
+	left: 50%;
+	position: absolute;
+	margin-left: -200px;
+	margin-top: -145px;
+	text-align: center;
+	font-family: roborto;
+}
+.middle{
+    background-color: white;
+	color: purple;
+	width: 400px;
+	height: 150px;
+	top: 180px;
+	left: 50%;
+	position: absolute;
+	margin-left: -200px;
+	margin-top: 0px;
+	font-family: roborto;
+	text-align: left;
+	font-family: cursive;
+	font-size: 10px;
+}
+.contact{
+	background-color: magenta;
+	color: white;
+	width: 400px;
+	height: 135px;
+	top: 180px;
+	left: 50%;
+	position: absolute;
+	margin-left: -200px;
+	margin-top: 150px;
+	font-size: 12px;
+}
